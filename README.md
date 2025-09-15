@@ -182,6 +182,3 @@ Lançar um ataque DDoS é crime na maioria das jurisdições — tratar qualquer
 
 **Aviso ético e legal:** Este documento tem finalidade **educacional** e de defesa. A divulgação de técnicas de ataque com instruções passo‑a‑passo não é suportada aqui. Realizar ataques DDoS é ilegal na maioria dos países e pode acarretar responsabilidade criminal.
 
----
-
-*Documento gerado automaticamente pelo assistente. Para adicionar imagens embutidas ou ajustar o tom (mais técnico, mais resumido, incluir exemplos de mitigação comercial), diga como prefere.*
